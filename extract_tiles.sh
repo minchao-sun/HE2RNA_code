@@ -1,0 +1,1 @@
+python extract_tile_features_from_slides.py --path_to_slides data/TCGA_slides/TCGA_SKCM --tile_coordinates tile_coordinates/tile_coordinates_TCGA_SKCM.pkl --path_to_save_features TCGA_tiles/TCGA_SKCM
