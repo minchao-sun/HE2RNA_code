@@ -1,0 +1,4 @@
+colorcorrect
+openslide-python
+joblib
+tqdm
