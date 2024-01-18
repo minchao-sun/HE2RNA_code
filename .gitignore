@@ -1,3 +1,4 @@
-data/
+data/TCGA_slides
+data/TCGA_transcriptome
 TCGA_tiles/
 tile_coordinates/
