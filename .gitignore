@@ -1,1 +1,3 @@
-/data
+data/
+TCGA_tiles/
+tile_coordinates/
