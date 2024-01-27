@@ -1,4 +1,13 @@
 data/TCGA_slides
 data/TCGA_transcriptome
-TCGA_tiles/
-tile_coordinates/
+data/TCGA_tiles/
+data/tile_coordinates/
+## Ignore Python bytecode cache
+__pycache__
+## Ignore Python compiled files
+*.pyc
+## Ignore IDE-specific files and directories
+# JetBrains IDE settings
+.idea/
+# Visual Studio Code settings
+.vscode/
